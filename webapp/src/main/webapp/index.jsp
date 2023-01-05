@@ -9,6 +9,7 @@
       <form >
          First name: <input type = "text" name = "first_name" />
          <br>
+	 <br>
          Last name: <input type = "text" name = "last_name" />
       </form>
    </body>
@@ -24,6 +25,7 @@
       <form >
          First name: <input type = "text" name = "first_name" />
          <br>
+	 <br>
          Last name: <input type = "text" name = "last_name" />
       </form>
    </body>
